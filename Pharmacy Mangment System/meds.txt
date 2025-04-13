@@ -1,0 +1,3 @@
+1|adol|100|4|pill|1
+3|xanx|90|10|pill|3
+4|lsd|28|60|ptch|4
